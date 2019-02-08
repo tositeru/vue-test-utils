@@ -1,4 +1,4 @@
-### Mocha + webpack による単一ファイルコンポーネントのテスト
+## Mocha + webpack による単一ファイルコンポーネントのテスト
 
 > このセットアップのサンプルプロジェクトは、 [GitHub](https://github.com/vuejs/vue-test-utils-mocha-webpack-example) にあります。
 
